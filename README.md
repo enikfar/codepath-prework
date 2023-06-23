@@ -30,7 +30,7 @@ GIF created with ezgif.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Everything was good
 
 ## License
 
