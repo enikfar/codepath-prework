@@ -4,7 +4,7 @@ Submitted by: Ehsanullah Nikfar
 
 **Ehsan** is an app that have information about me and a have button that change color.
 
-Time spent: 5 hours spent in total
+Time spent: 1 hour spent in total
 
 ## Required Features
 
